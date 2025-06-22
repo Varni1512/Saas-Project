@@ -14,14 +14,20 @@
   <h3 align="center">SaaS App - LMS with Next.js, Supabase & Payments</h3>
 </div>
 
+## 🔗 Live Here
+
+You can check out the live version of the project here:
+
+👉 [**Live Demo**](https://saas-seven-khaki.vercel.app/)  
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
+5. 🤝 [Contributing](#contribution)
+6. 📜 [License](#license)
 
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -132,3 +138,25 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+## <a name="contribution">🤝 Contribution</a>
+
+Contributions are welcome! If you'd like to improve this project, please follow these steps:
+- Fork the repository.
+- Create a new branch (git checkout -b feature/your-feature).
+- Make your changes and commit them (git commit -m 'Add your feature').
+- Push to the branch (git push origin feature/your-feature).
+- Open a Pull Request.
+
+## <a name="license">📜 License</a>
+
+This project is licensed under the **[MIT License](LICENSE)**.  
+You are free to use, modify, and distribute this project in accordance with the license terms.
+
+---
+
+<div align="center">
+  <p>🚀 Built with ❤️ by <a href="https://github.com/Varni1512" target="_blank"><strong>Varni1512</strong></a></p>
+  <p>⭐ If you found this project helpful, don't forget to <strong>star</strong> the repository!</p>
+  <p>🛠️ Contributions are welcome!</p>
+</div>
