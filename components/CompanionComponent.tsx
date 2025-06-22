@@ -167,6 +167,8 @@ const CompanionComponent = ({ companionId, subject, topic, name, userName, userI
 
                 <div className="transcript-fade" />
             </section>
+            <br />
+            <br />
         </section>
     )
 }

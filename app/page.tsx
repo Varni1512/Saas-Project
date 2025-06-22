@@ -31,7 +31,9 @@ const Page = async () => {
                 classNames="w-2/3 max-lg:w-full"
             />
             <CTA />
+            
         </section>
+        <br />
     </main>
   )
 }
